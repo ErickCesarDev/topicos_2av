@@ -1,0 +1,128 @@
+{
+  "qual horário de funcionamento?": {
+    "resposta": "Funcionamos de segunda a sábado, das 9h às 20h.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "vocês abrem aos domingos?": {
+    "resposta": "Não abrimos aos domingos.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "quais celulares vocês têm?": {
+    "resposta": "Trabalhamos com Samsung, Apple e Motorola.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o samsung galaxy a14?": {
+    "resposta": "Sim, temos o Samsung Galaxy A14 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o galaxy s21 fe?": {
+    "resposta": "Sim, temos o Galaxy S21 FE em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o galaxy m54?": {
+    "resposta": "Sim, temos o Galaxy M54 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o galaxy z flip 5?": {
+    "resposta": "Sim, temos o Galaxy Z Flip 5 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o galaxy a54?": {
+    "resposta": "Sim, temos o Galaxy A54 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o motorola moto g84?": {
+    "resposta": "Sim, temos o Motorola Moto G84 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o moto g73?": {
+    "resposta": "Sim, temos o Moto G73 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o moto edge 30?": {
+    "resposta": "Sim, temos o Moto Edge 30 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o moto e22?": {
+    "resposta": "Sim, temos o Moto E22 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o moto g13?": {
+    "resposta": "Sim, temos o Moto G13 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o iphone 14?": {
+    "resposta": "Sim, temos o iPhone 14 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o iphone 12 mini?": {
+    "resposta": "Sim, temos o iPhone 12 mini em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o iphone se 2022?": {
+    "resposta": "Sim, temos o iPhone SE 2022 em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "tem o iphone 15 pro max?": {
+    "resposta": "Sim, temos o iPhone 15 Pro Max em estoque.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "vocês entregam?": {
+    "resposta": "Sim, entregamos para todo o Brasil via correios e transportadora.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "meu celular não liga, o que faço?": {
+    "resposta": "Recomendamos trazer o aparelho para avaliação técnica.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "fazem conserto de celular?": {
+    "resposta": "Sim, temos assistência técnica para aparelhos comprados na loja.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  },
+  "qual o telefone da loja?": {
+    "resposta": "Nosso telefone é (81) 99999-9999.",
+    "intencao": [
+      "Desconhecida"
+    ]
+  }
+}
